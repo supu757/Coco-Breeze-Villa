@@ -1,7 +1,7 @@
-# Serene Wave Villa – Coastal Villa and Room Booking System
+# Coco Breeze Mirissa – Coastal Villa and Room Booking System
 
 ## 1. Project Overview
-Serene Wave Villa is a dynamic web-based coastal villa and room booking application developed for **IT1208 – Web Technologies (Continuous Assessment 2 – 2026)**. Designed around a coastal villa in Mirissa, Sri Lanka, the system enables tourists to browse accommodation, check room availability by dates and guest count, submit booking requests, and manage reservations, while allowing an administrator to manage rooms and booking statuses.
+Coco Breeze Mirissa is a dynamic web-based coastal villa and room booking application developed for **IT1208 – Web Technologies (Continuous Assessment 2 – 2026)**. Designed around a coastal villa in Mirissa, Sri Lanka, the system enables tourists to browse accommodation, check room availability by dates and guest count, submit booking requests, and manage reservations, while allowing an administrator to manage rooms and booking statuses.
 
 ## 2. Implemented Features
 - **Home Page (`index.php`):** Displays villa introduction, coastal highlights, navigation links, featured rooms, and booking entry points.
